@@ -8,6 +8,8 @@ Spearhead/SH
 Or anyone affiliated/associated. 
 Red Horizon/Sector Zer0 [S.0]
 Or anyone affiliated/associated
+OPR / OPR Fargo
+Or anyone affiliated/associated 
 
 This list will be constantly updated
 
@@ -17,8 +19,7 @@ SERVERS THAT HAVE FULL PERMISSION TO MODIFY / REXTEXTURE / RECREATE NB MODS
 Conflict in Europe/CIE
 Or anyone affiliated/associated
 
-OPR / OPR Fargo
-Or anyone affiliated/associated 
+
 MM / Mushy Mayhem
 Or anyone affiliated/associated
 
